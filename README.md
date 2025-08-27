@@ -5,6 +5,6 @@
 ---
 ### Installation
 
-- 1 clone the theme file [Rem.theme.css](https://github.com/Tanya575/Rem/blob/main/Rem.theme.css)
+- 1 clone the theme file [Rem.theme.css](https://github.com/FdwZ47/Rem/blob/main/Rem.theme.css)
 - 2 Place it in the BetterDiscord themes folder
 - 3 enable rem theme in the themes tab
